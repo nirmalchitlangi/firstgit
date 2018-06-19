@@ -1,1 +1,5 @@
 First file
+changed contents
+merging contents
+new content
+sdsadsa
