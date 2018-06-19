@@ -1,5 +1,9 @@
 First file
 changed contents
+<<<<<<< HEAD
 merging contents
 new content
 sdsadsa
+=======
+merging contents
+>>>>>>> master
